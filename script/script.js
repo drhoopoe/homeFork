@@ -32,7 +32,7 @@ const Config = {
                 ["feeds", "https://www.inoreader.com/all_articles"],
                 ["nts", "https://www.nts.live/"],
                 ["bandcamp", "https://bandcamp.com/ngard1035"],
-                ["netflix", "https://www.example.com"]
+                ["netflix", "https://www.netflix.com/browse"]
             ]
         ]
     ]
